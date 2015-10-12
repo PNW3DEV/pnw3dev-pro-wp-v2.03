@@ -1,0 +1,2015 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RED:FOLIO v1.03\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-23 22:08+0100\n"
+"PO-Revision-Date: 2014-07-25 08:33:38+0000\n"
+"Last-Translator: Johann Kratzik <johann@kratzik.com>\n"
+"Language-Team: Johann Kratzik <info@zoomdrive.at>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: AUSTRIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Textdomain-Support: yes"
+
+#: includes/metaboxes/inc/meta-box.php:244
+#@ rwmb
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Bitte beheben Sie die unten angeführten Fehler und versuchen Sie es erneut."
+
+#: includes/metaboxes/inc/meta-box.php:418
+#@ rwmb
+msgid "+"
+msgstr "+"
+
+#: includes/metaboxes/inc/meta-box.php:440
+#@ rwmb
+msgid "&#8211;"
+msgstr "&#8211;"
+
+#: includes/metaboxes/inc/fields/file.php:70
+#@ rwmb
+msgid "Error: Cannot delete file"
+msgstr "Fehler: Datei kann nicht gelöscht werden"
+
+#: includes/metaboxes/inc/fields/file.php:84
+#@ rwmb
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr "Dateien hochladen"
+
+#: includes/metaboxes/inc/fields/file.php:85
+#@ rwmb
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ Neue Datei hinzufügen"
+
+#: includes/metaboxes/inc/fields/file-advanced.php:102
+#: includes/metaboxes/inc/fields/file.php:138
+#@ rwmb
+msgctxt "file upload"
+msgid "Delete"
+msgstr "Löschen"
+
+#: includes/metaboxes/inc/fields/file-advanced.php:103
+#: includes/metaboxes/inc/fields/file.php:139
+#@ rwmb
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: includes/metaboxes/inc/fields/image-advanced.php:71
+#@ rwmb
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr "Bilder auswählen oder hochladen"
+
+#: includes/metaboxes/inc/fields/image.php:71
+#: includes/metaboxes/inc/fields/thickbox-image.php:35
+#@ rwmb
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr "Bilder hochladen"
+
+#: includes/metaboxes/inc/fields/image.php:72
+#@ rwmb
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr "+ Neues Bild hinzufügen"
+
+#: includes/metaboxes/inc/fields/image-advanced.php:107
+#: includes/metaboxes/inc/fields/image.php:137
+#@ rwmb
+msgctxt "image upload"
+msgid "Delete"
+msgstr "Löschen"
+
+#: includes/metaboxes/inc/fields/image-advanced.php:108
+#: includes/metaboxes/inc/fields/image.php:138
+#@ rwmb
+msgctxt "image upload"
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: includes/metaboxes/inc/fields/map.php:49
+#@ rwmb
+msgid "Find Address"
+msgstr "Adresse finden"
+
+#: includes/metaboxes/inc/fields/plupload-image.php:103
+#@ rwmb
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr "Bilder hierher ziehen"
+
+#: includes/metaboxes/inc/fields/plupload-image.php:104
+#@ rwmb
+msgctxt "image upload"
+msgid "or"
+msgstr "oder"
+
+#: includes/metaboxes/inc/fields/plupload-image.php:105
+#@ rwmb
+msgctxt "image upload"
+msgid "Select Files"
+msgstr "Dateien auswählen"
+
+#: includes/metaboxes/inc/fields/plupload-image.php:180
+#@ rwmb
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr "Erlaubte Typen von Bilddateien"
+
+#: includes/metaboxes/inc/fields/post.php:54
+#@ rwmb
+msgid "Post"
+msgstr "Beitrag"
+
+#: includes/metaboxes/inc/fields/post.php:68
+#: includes/metaboxes/inc/fields/taxonomy.php:40
+#, php-format
+#@ rwmb
+msgid "Select a %s"
+msgstr "%s auswählen"
+
+#: 404.php:12
+#@ gxg_textdomain
+msgid "404"
+msgstr ""
+
+#: 404.php:13
+#@ gxg_textdomain
+msgid "Not Found"
+msgstr "Nicht gefunden"
+
+#: 404.php:14
+#@ gxg_textdomain
+msgid "The page you requested does not exist."
+msgstr ""
+
+#: archive.php:18
+#@ gxg_textdomain
+msgid "All posts on"
+msgstr ""
+
+#: archive.php:21
+#: archive.php:24
+#@ gxg_textdomain
+msgid "All posts in"
+msgstr ""
+
+#: archive.php:27
+#@ gxg_textdomain
+msgid "Author"
+msgstr ""
+
+#: archive.php:30
+#@ gxg_textdomain
+msgid "Blog Archives"
+msgstr ""
+
+#: blog-section.php:39
+#: loop-masonry.php:36
+#: loop.php:36
+#: search.php:60
+#: search.php:160
+#: template-blog-style1.php:69
+#: template-blog-style2.php:67
+#: template-blog-style3.php:67
+#@ gxg_textdomain
+msgid "Permanent link to"
+msgstr ""
+
+#: blog-section.php:56
+#: loop-masonry.php:54
+#: loop.php:53
+#: search.php:88
+#: search.php:188
+#: single.php:64
+#: template-blog-style1.php:86
+#: template-blog-style2.php:85
+#: template-blog-style3.php:85
+#@ gxg_textdomain
+msgid "comments"
+msgstr ""
+
+#: blog-section.php:78
+#: loop-masonry.php:76
+#: loop.php:75
+#: template-blog-style1.php:108
+#: template-blog-style2.php:107
+#: template-blog-style3.php:107
+#@ gxg_textdomain
+msgid "<span class=\"moretext\"> read more </span>"
+msgstr "<span class=\"moretext\"> mehr </span>"
+
+#: comments.php:8
+#@ gxg_textdomain
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:15
+#@ gxg_textdomain
+msgid "No Comments."
+msgstr ""
+
+#: comments.php:15
+#@ gxg_textdomain
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:15
+#@ gxg_textdomain
+msgid "% Comments"
+msgstr ""
+
+#: footer.php:18
+#@ gxg_textdomain
+msgid "All Rights Reserved."
+msgstr ""
+
+#: functions.php:18
+#@ gxg_textdomain
+msgid "main sidebar"
+msgstr ""
+
+#: functions.php:36
+#@ gxg_textdomain
+msgid "RED:FOLIO Main Menu"
+msgstr ""
+
+#: functions.php:268
+#@ gxg_textdomain
+msgid "sidbar for woocommerce template"
+msgstr ""
+
+#: includes/admin/options-framework.php:267
+#@ gxg_textdomain
+msgid "documentation"
+msgstr ""
+
+#: includes/admin/options-framework.php:301
+#@ gxg_textdomain
+msgid "Restore Defaults"
+msgstr ""
+
+#: includes/admin/options-framework.php:301
+#@ gxg_textdomain
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: includes/admin/options-framework.php:305
+#@ gxg_textdomain
+msgid "Save Options"
+msgstr ""
+
+#: includes/admin/options-framework.php:341
+#@ gxg_textdomain
+msgid "Default options restored."
+msgstr ""
+
+#: includes/admin/options-framework.php:388
+#@ gxg_textdomain
+msgid "Options saved."
+msgstr ""
+
+#: includes/admin/options-framework.php:436
+#@ gxg_textdomain
+msgid "red:folio Options"
+msgstr ""
+
+#: includes/admin/options-medialibrary-uploader.php:127
+#@ gxg_textdomain
+msgid "Upload"
+msgstr ""
+
+#: includes/admin/options-medialibrary-uploader.php:150
+#@ optionsframework
+msgid "View File"
+msgstr ""
+
+#: includes/admin/options.php:43
+#@ gxg_textdomain
+msgid "light"
+msgstr ""
+
+#: includes/admin/options.php:43
+#@ gxg_textdomain
+msgid "dark"
+msgstr ""
+
+#: includes/admin/options.php:100
+#@ gxg_textdomain
+msgid "GENERAL"
+msgstr ""
+
+#: includes/admin/options.php:104
+#@ gxg_textdomain
+msgid "Configure the general setup of your theme."
+msgstr ""
+
+#: includes/admin/options.php:109
+#@ gxg_textdomain
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/options.php:110
+#@ gxg_textdomain
+msgid "Want to add any custom CSS code? Put it in here, and the rest is taken care of. This overrides any other stylesheets."
+msgstr ""
+
+#: includes/admin/options.php:115
+#@ gxg_textdomain
+msgid "Load WooCommerce stylesheets"
+msgstr ""
+
+#: includes/admin/options.php:116
+#@ gxg_textdomain
+msgid "Check this box after you have installed the WooCommerce plugin."
+msgstr ""
+
+#: includes/admin/options.php:121
+#@ gxg_textdomain
+msgid "404 Error"
+msgstr ""
+
+#: includes/admin/options.php:122
+#@ gxg_textdomain
+msgid "Add your own text to display on error pages."
+msgstr ""
+
+#: includes/admin/options.php:127
+#@ gxg_textdomain
+msgid "Google Analytics Code"
+msgstr ""
+
+#: includes/admin/options.php:128
+#@ gxg_textdomain
+msgid "Enter your Google Analytics or other tracking code here, it will be added to all pages. (NOTE: you do not need to wrap your code with &lt;script> ... &lt;/script>) "
+msgstr ""
+
+#: includes/admin/options.php:135
+#@ gxg_textdomain
+msgid "Logo"
+msgstr ""
+
+#: includes/admin/options.php:141
+#@ gxg_textdomain
+msgid "Upload Logo"
+msgstr ""
+
+#: includes/admin/options.php:142
+#@ gxg_textdomain
+msgid "Upload your Logo."
+msgstr ""
+
+#: includes/admin/options.php:146
+#@ gxg_textdomain
+msgid "Upload Retina Logo (Optional)"
+msgstr ""
+
+#: includes/admin/options.php:147
+#@ gxg_textdomain
+msgid "Upload your Retina Logo. This should be your Logo in double size (If your Logo is 140 x 24px, it should be 280 x 48px)"
+msgstr ""
+
+#: includes/admin/options.php:151
+#@ gxg_textdomain
+msgid "Original Logo Width (important for Retina Logo to display properly)"
+msgstr ""
+
+#: includes/admin/options.php:152
+#@ gxg_textdomain
+msgid "Enter the width of the Standard Logo you have uploaded (not the Retina Logo) here. If your Logo has a width of 140px, enter: 140."
+msgstr ""
+
+#: includes/admin/options.php:157
+#@ gxg_textdomain
+msgid "Original Logo Height (important for Retina Logo to display properly)"
+msgstr ""
+
+#: includes/admin/options.php:163
+#@ gxg_textdomain
+msgid "Logo text instead of image"
+msgstr ""
+
+#: includes/admin/options.php:169
+#@ gxg_textdomain
+msgid "Theme Customization"
+msgstr ""
+
+#: includes/admin/options.php:175
+#@ gxg_textdomain
+msgid "Sticky header"
+msgstr ""
+
+#: includes/admin/options.php:176
+#@ gxg_textdomain
+msgid "Keep header visible when scrolling down"
+msgstr ""
+
+#: includes/admin/options.php:181
+#@ gxg_textdomain
+msgid "Search Button in header"
+msgstr ""
+
+#: includes/admin/options.php:182
+#@ gxg_textdomain
+msgid "Display search button in header"
+msgstr ""
+
+#: includes/admin/options.php:187
+#@ gxg_textdomain
+msgid "FRONTPAGE Blog Section number of posts"
+msgstr ""
+
+#: includes/admin/options.php:188
+#@ gxg_textdomain
+msgid "How many blog posts would you like to display in the Frontpage blog section?"
+msgstr ""
+
+#: includes/admin/options.php:193
+#@ gxg_textdomain
+msgid "Main Blog Page layout"
+msgstr ""
+
+#: includes/admin/options.php:194
+#@ default
+msgid "Layout of your Main Blog Page - the page you selected in Settings > Reading > Posts Page"
+msgstr ""
+
+#: includes/admin/options.php:202
+#@ gxg_textdomain
+msgid "Show author info in the post info section"
+msgstr ""
+
+#: includes/admin/options.php:207
+#@ gxg_textdomain
+msgid "Remove Comments"
+msgstr ""
+
+#: includes/admin/options.php:209
+#@ gxg_textdomain
+msgid "Remove all comment sections from the entire website"
+msgstr ""
+
+#: includes/admin/options.php:213
+#@ gxg_textdomain
+msgid "Copyright text"
+msgstr ""
+
+#: includes/admin/options.php:214
+#@ gxg_textdomain
+msgid "Add your own  copyright text to display below content."
+msgstr ""
+
+#: includes/admin/options.php:220
+#: includes/admin/options.php:226
+#@ gxg_textdomain
+msgid "Favicon"
+msgstr ""
+
+#: includes/admin/options.php:227
+#@ gxg_textdomain
+msgid "Upload a 16 x 16 favicon"
+msgstr ""
+
+#: includes/admin/options.php:233
+#: includes/admin/options.php:239
+#@ gxg_textdomain
+msgid "Custom Gravatar"
+msgstr ""
+
+#: includes/admin/options.php:240
+#@ gxg_textdomain
+msgid "Upload a Gravatar."
+msgstr ""
+
+#: includes/admin/options.php:251
+#@ gxg_textdomain
+msgid "PORTFOLIO"
+msgstr ""
+
+#: includes/admin/options.php:255
+#@ gxg_textdomain
+msgid "Set up the portfolio section / portfolio page"
+msgstr ""
+
+#: includes/admin/options.php:258
+#@ gxg_textdomain
+msgid "PORTFOLIO gutter width"
+msgstr ""
+
+#: includes/admin/options.php:259
+#@ gxg_textdomain
+msgid "Set the space in between portfolio items. If you want to add a space of 4px, enter: 4 . Recommended values: narrow: 4 wide: 24"
+msgstr ""
+
+#: includes/admin/options.php:264
+#@ gxg_textdomain
+msgid "Portfolio items overlay color"
+msgstr ""
+
+#: includes/admin/options.php:266
+#@ gxg_textdomain
+msgid "Default color: #14b8f5"
+msgstr ""
+
+#: includes/admin/options.php:270
+#@ gxg_textdomain
+msgid "Portfolio items overlay opacity"
+msgstr ""
+
+#: includes/admin/options.php:271
+#@ gxg_textdomain
+msgid "Example 70% opacity, enter: 0.7"
+msgstr ""
+
+#: includes/admin/options.php:282
+#@ gxg_textdomain
+msgid "TYPOGRAPHY"
+msgstr ""
+
+#: includes/admin/options.php:286
+#@ gxg_textdomain
+msgid "Style your Headings and links. Remove values to use default settings."
+msgstr ""
+
+#: includes/admin/options.php:289
+#@ gxg_textdomain
+msgid "Google Web Font for Headings"
+msgstr ""
+
+#: includes/admin/options.php:290
+#@ gxg_textdomain
+msgid "Simply enter the name of the Google font that you would like to use for Headings here. The rest is taken care of. Default font: Lato"
+msgstr ""
+
+#: includes/admin/options.php:295
+#@ gxg_textdomain
+msgid "Font Weight for Headings"
+msgstr ""
+
+#: includes/admin/options.php:296
+#@ gxg_textdomain
+msgid "Set font weight for Headings. Default: 800.  Info: Normal = 400"
+msgstr ""
+
+#: includes/admin/options.php:301
+#@ gxg_textdomain
+msgid "Text Transform for Headings"
+msgstr ""
+
+#: includes/admin/options.php:302
+#@ gxg_textdomain
+msgid "Some Headings are UPPERCASE letters by default. However, some fonts simply don't look right with just uppercase letters. Here you can set the text transform to NONE"
+msgstr ""
+
+#: includes/admin/options.php:308
+#@ gxg_textdomain
+msgid "Remove Letter spacing from Headings"
+msgstr ""
+
+#: includes/admin/options.php:309
+#@ gxg_textdomain
+msgid "Some Headings have some extra space in between characters. However, some fonts simply don't look right with letter spacing. Here you can remove it."
+msgstr ""
+
+#: includes/admin/options.php:314
+#@ gxg_textdomain
+msgid "Home Title Font Size"
+msgstr ""
+
+#: includes/admin/options.php:320
+#@ gxg_textdomain
+msgid "Section Title Font Size"
+msgstr ""
+
+#: includes/admin/options.php:326
+#@ gxg_textdomain
+msgid "Remove links underline"
+msgstr ""
+
+#: includes/admin/options.php:335
+#@ gxg_textdomain
+msgid "COLOR"
+msgstr ""
+
+#: includes/admin/options.php:339
+#@ gxg_textdomain
+msgid "Set the theme color."
+msgstr ""
+
+#: includes/admin/options.php:343
+#@ gxg_textdomain
+msgid "Predefined Primary Color"
+msgstr ""
+
+#: includes/admin/options.php:364
+#@ gxg_textdomain
+msgid "Custom Primary Color"
+msgstr ""
+
+#: includes/admin/options.php:365
+#@ gxg_textdomain
+msgid "If you prefer a different color than the ones above,  you can select a custom color here. This field has priority over the Predefined Primary Theme Color."
+msgstr ""
+
+#: includes/admin/options.php:370
+#@ gxg_textdomain
+msgid "Predefined Secondary Color"
+msgstr ""
+
+#: includes/admin/options.php:372
+#@ gxg_textdomain
+msgid "Pick a secondary color (for Buttons, Pagination ...)"
+msgstr ""
+
+#: includes/admin/options.php:392
+#@ gxg_textdomain
+msgid "Custom Secondary Color"
+msgstr ""
+
+#: includes/admin/options.php:393
+#@ gxg_textdomain
+msgid "If you prefer a different color than the ones above,  you can select a custom color here. This field has priority over the Predefined Secondary Theme Color."
+msgstr ""
+
+#: includes/admin/options.php:398
+#@ gxg_textdomain
+msgid "Hover Color"
+msgstr ""
+
+#: includes/admin/options.php:399
+#@ gxg_textdomain
+msgid "Pick a hover color for all links and buttons. Default: #aaaaaa"
+msgstr ""
+
+#: includes/admin/options.php:404
+#@ gxg_textdomain
+msgid "Post info background color"
+msgstr ""
+
+#: includes/admin/options.php:413
+#@ gxg_textdomain
+msgid "Custom Search Color"
+msgstr ""
+
+#: includes/admin/options.php:419
+#@ gxg_textdomain
+msgid "Predefined Search Button and Form color in top bar"
+msgstr ""
+
+#: includes/admin/options.php:440
+#@ gxg_textdomain
+msgid "Custom Search Button and Form color in top bar"
+msgstr ""
+
+#: includes/admin/options.php:442
+#@ gxg_textdomain
+msgid "If you prefer a different color than the ones above,  you can select a custom color here. This field has priority over the Predefined Search Button and Form Color."
+msgstr ""
+
+#: includes/admin/options.php:447
+#@ gxg_textdomain
+msgid "Form Colors"
+msgstr ""
+
+#: includes/admin/options.php:452
+#@ gxg_textdomain
+msgid "Form input fields background color"
+msgstr ""
+
+#: includes/admin/options.php:453
+#@ gxg_textdomain
+msgid "Pick a background color for input fields (such as contact form and comment form). Default: #a3d7df"
+msgstr ""
+
+#: includes/admin/options.php:458
+#@ gxg_textdomain
+msgid "Form input fields text color"
+msgstr ""
+
+#: includes/admin/options.php:459
+#@ gxg_textdomain
+msgid "Pick a text color for input fields (such as contact form and comment form). Default: #ffffff"
+msgstr ""
+
+#: includes/admin/options.php:469
+#@ gxg_textdomain
+msgid "HOME"
+msgstr ""
+
+#: includes/admin/options.php:473
+#@ gxg_textdomain
+msgid "Set up the Home section"
+msgstr ""
+
+#: includes/admin/options.php:477
+#@ gxg_textdomain
+msgid "Display Home Section Image with 100% height"
+msgstr ""
+
+#: includes/admin/options.php:482
+#@ gxg_textdomain
+msgid "Fade in Title, Subtitle, Buttons in Home Section"
+msgstr ""
+
+#: includes/admin/options.php:484
+#@ gxg_textdomain
+msgid "Check this box if you would like to fade in the title, subtitle and buttons in the Home Section. If unchecked, they will display immediately."
+msgstr ""
+
+#: includes/admin/options.php:492
+#@ gxg_textdomain
+msgid "SOCIAL"
+msgstr ""
+
+#: includes/admin/options.php:496
+#@ gxg_textdomain
+msgid "Set up the Twitter Section and enter the info for your social network accounts to display them in the Social Section, and optionally also in the footer."
+msgstr ""
+
+#: includes/admin/options.php:502
+#@ gxg_textdomain
+msgid "Twitter Section"
+msgstr ""
+
+#: includes/admin/options.php:508
+#@ gxg_textdomain
+msgid "Display Retweets?"
+msgstr ""
+
+#: includes/admin/options.php:513
+#@ gxg_textdomain
+msgid "Display Replies?"
+msgstr ""
+
+#: includes/admin/options.php:518
+#@ gxg_textdomain
+msgid "Color of tweet text in twitter Section"
+msgstr ""
+
+#: includes/admin/options.php:519
+#@ gxg_textdomain
+msgid "This affects the color in the twitter Section only, not in the twitter widget."
+msgstr ""
+
+#: includes/admin/options.php:525
+#@ gxg_textdomain
+msgid "Facebook and Twitter share buttons"
+msgstr ""
+
+#: includes/admin/options.php:530
+#@ gxg_textdomain
+msgid "Display Facebook and Twitter share icons on single post and portfolio pages?"
+msgstr ""
+
+#: includes/admin/options.php:536
+#@ gxg_textdomain
+msgid "Social Section & Social Icons in Footer "
+msgstr ""
+
+#: includes/admin/options.php:542
+#@ gxg_textdomain
+msgid "Display social icons in footer"
+msgstr ""
+
+#: includes/admin/options.php:543
+#@ gxg_textdomain
+msgid "Display social icons also in footer, next to copyright info"
+msgstr ""
+
+#: includes/admin/options.php:548
+#@ gxg_textdomain
+msgid "Color of icons in Social Section"
+msgstr ""
+
+#: includes/admin/options.php:549
+#@ gxg_textdomain
+msgid "This affects the color in the social Section only, not in the footer."
+msgstr ""
+
+#: includes/admin/options.php:556
+#@ gxg_textdomain
+msgid "Enter the full URL to your Facebook profile"
+msgstr ""
+
+#: includes/admin/options.php:562
+#@ gxg_textdomain
+msgid "Enter the full URL to your Twitter profile"
+msgstr ""
+
+#: includes/admin/options.php:568
+#@ gxg_textdomain
+msgid "Enter the full URL to your Google Plus profile"
+msgstr ""
+
+#: includes/admin/options.php:574
+#@ gxg_textdomain
+msgid "Enter the full URL to your dribbble profile"
+msgstr ""
+
+#: includes/admin/options.php:580
+#@ gxg_textdomain
+msgid "Enter the full URL to your Behance profile"
+msgstr ""
+
+#: includes/admin/options.php:586
+#@ gxg_textdomain
+msgid "Enter the full URL to your Github page"
+msgstr ""
+
+#: includes/admin/options.php:592
+#@ gxg_textdomain
+msgid "Enter the full URL to your Spotify profile"
+msgstr ""
+
+#: includes/admin/options.php:598
+#@ gxg_textdomain
+msgid "Enter the full URL to your YouTube page"
+msgstr ""
+
+#: includes/admin/options.php:604
+#@ gxg_textdomain
+msgid "Enter the full URL to your Vimeo page"
+msgstr ""
+
+#: includes/admin/options.php:610
+#@ gxg_textdomain
+msgid "Enter the full URL to your Vine page"
+msgstr ""
+
+#: includes/admin/options.php:616
+#@ gxg_textdomain
+msgid "Enter the full URL to your Soundcloud page"
+msgstr ""
+
+#: includes/admin/options.php:622
+#@ gxg_textdomain
+msgid "Enter the full URL to your Instagram profile"
+msgstr ""
+
+#: includes/admin/options.php:628
+#@ gxg_textdomain
+msgid "Enter the full URL to your Pinterest profile"
+msgstr ""
+
+#: includes/admin/options.php:634
+#@ gxg_textdomain
+msgid "Enter the full URL to your Flickr profile"
+msgstr ""
+
+#: includes/admin/options.php:640
+#@ gxg_textdomain
+msgid "Enter the full URL to your Deviantart profile"
+msgstr ""
+
+#: includes/admin/options.php:646
+#@ gxg_textdomain
+msgid "Enter the full URL to your Stack Overflow profile"
+msgstr ""
+
+#: includes/admin/options.php:652
+#@ gxg_textdomain
+msgid "Enter the full URL to your LinkedIn profile"
+msgstr ""
+
+#: includes/admin/options.php:658
+#@ gxg_textdomain
+msgid "Enter the full URL to your Skype profile"
+msgstr ""
+
+#: includes/admin/options.php:664
+#@ gxg_textdomain
+msgid "Enter the full URL to your Tumblr profile"
+msgstr ""
+
+#: includes/admin/options.php:670
+#@ gxg_textdomain
+msgid "Enter the full URL to your Xing profile"
+msgstr ""
+
+#: includes/admin/options.php:680
+#@ gxg_textdomain
+msgid "CLIENTS"
+msgstr ""
+
+#: includes/admin/options.php:684
+#@ gxg_textdomain
+msgid "Upload your client's logos to display them in the Clients Section."
+msgstr ""
+
+#: includes/admin/options.php:687
+#@ gxg_textdomain
+msgid "Border around client logos"
+msgstr ""
+
+#: includes/admin/options.php:688
+#@ gxg_textdomain
+msgid "Remove color value if you want to display no border at all."
+msgstr ""
+
+#: includes/admin/options.php:694
+#@ gxg_textdomain
+msgid "Center logos"
+msgstr ""
+
+#: includes/admin/options.php:695
+#@ gxg_textdomain
+msgid "Display logos centered on the site instead of left aligned."
+msgstr ""
+
+#: includes/admin/options.php:701
+#@ gxg_textdomain
+msgid "Upload logo of client 1"
+msgstr ""
+
+#: includes/admin/options.php:706
+#: includes/admin/options.php:717
+#: includes/admin/options.php:728
+#: includes/admin/options.php:739
+#: includes/admin/options.php:751
+#: includes/admin/options.php:762
+#: includes/admin/options.php:773
+#: includes/admin/options.php:784
+#: includes/admin/options.php:795
+#: includes/admin/options.php:806
+#: includes/admin/options.php:817
+#: includes/admin/options.php:828
+#: includes/admin/options.php:839
+#: includes/admin/options.php:850
+#: includes/admin/options.php:861
+#: includes/admin/options.php:872
+#: includes/admin/options.php:883
+#: includes/admin/options.php:894
+#: includes/admin/options.php:905
+#: includes/admin/options.php:916
+#@ gxg_textdomain
+msgid "Enter full URL"
+msgstr ""
+
+#: includes/admin/options.php:712
+#@ gxg_textdomain
+msgid "Upload logo of client 2"
+msgstr ""
+
+#: includes/admin/options.php:723
+#@ gxg_textdomain
+msgid "Upload logo of client 3"
+msgstr ""
+
+#: includes/admin/options.php:734
+#@ gxg_textdomain
+msgid "Upload logo of client 4"
+msgstr ""
+
+#: includes/admin/options.php:745
+#@ gxg_textdomain
+msgid "Upload logo of client 5"
+msgstr ""
+
+#: includes/admin/options.php:757
+#@ gxg_textdomain
+msgid "Upload logo of client 6"
+msgstr ""
+
+#: includes/admin/options.php:768
+#@ gxg_textdomain
+msgid "Upload logo of client 7"
+msgstr ""
+
+#: includes/admin/options.php:779
+#@ gxg_textdomain
+msgid "Upload logo of client 8"
+msgstr ""
+
+#: includes/admin/options.php:790
+#@ gxg_textdomain
+msgid "Upload logo of client 9"
+msgstr ""
+
+#: includes/admin/options.php:801
+#@ gxg_textdomain
+msgid "Upload logo of client 10"
+msgstr ""
+
+#: includes/admin/options.php:812
+#@ gxg_textdomain
+msgid "Upload logo of client 11"
+msgstr ""
+
+#: includes/admin/options.php:823
+#@ gxg_textdomain
+msgid "Upload logo of client 12"
+msgstr ""
+
+#: includes/admin/options.php:834
+#@ gxg_textdomain
+msgid "Upload logo of client 13"
+msgstr ""
+
+#: includes/admin/options.php:845
+#@ gxg_textdomain
+msgid "Upload logo of client 14"
+msgstr ""
+
+#: includes/admin/options.php:856
+#@ gxg_textdomain
+msgid "Upload logo of client 15"
+msgstr ""
+
+#: includes/admin/options.php:867
+#@ gxg_textdomain
+msgid "Upload logo of client 16"
+msgstr ""
+
+#: includes/admin/options.php:878
+#@ gxg_textdomain
+msgid "Upload logo of client 17"
+msgstr ""
+
+#: includes/admin/options.php:889
+#@ gxg_textdomain
+msgid "Upload logo of client 18"
+msgstr ""
+
+#: includes/admin/options.php:900
+#@ gxg_textdomain
+msgid "Upload logo of client 19"
+msgstr ""
+
+#: includes/admin/options.php:911
+#@ gxg_textdomain
+msgid "Upload logo of client 20"
+msgstr ""
+
+#: includes/admin/options.php:925
+#@ gxg_textdomain
+msgid "CONTACT"
+msgstr ""
+
+#: includes/admin/options.php:929
+#@ gxg_textdomain
+msgid "Set up Contact Section / Contact Page"
+msgstr ""
+
+#: includes/admin/options.php:934
+#@ gxg_textdomain
+msgid "Display Google Map"
+msgstr ""
+
+#: includes/admin/options.php:936
+#@ gxg_textdomain
+msgid "Display Google Map in contact section / on contact page. This requires the \"Basic Google Maps Placemarks\" plugin"
+msgstr ""
+
+#: includes/admin/options.php:941
+#@ gxg_textdomain
+msgid "Enter Contact Form 7 Shortcode to display a Contact Form in contact section / on contact page"
+msgstr ""
+
+#: includes/functions/theme_functions.php:98
+#@ gxg_textdomain
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:13
+#@ gxg_textdomain
+msgid "GENERAL (Frontpage sections settings)"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:17
+#@ gxg_textdomain
+msgid "Help"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:24
+#@ gxg_textdomain
+msgid "Front Page section?"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:31
+#@ gxg_textdomain
+msgid "Layout"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:51
+#@ gxg_textdomain
+msgid "Background Color"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:58
+#@ gxg_textdomain
+msgid "Parallax Image"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:72
+#@ gxg_textdomain
+msgid "SECTION TITLE AND SUBTITLE"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:76
+#@ gxg_textdomain
+msgid "Title text"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:83
+#@ gxg_textdomain
+msgid "Title Color"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:90
+#: includes/metaboxes/config-meta-boxes.php:324
+#: includes/metaboxes/config-meta-boxes.php:350
+#@ gxg_textdomain
+msgid "Subtitle"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:95
+#@ gxg_textdomain
+msgid "Subtitle text"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:103
+#@ gxg_textdomain
+msgid "Subtitle Color"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:110
+#@ gxg_textdomain
+msgid "Subtitle alignment"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:131
+#@ gxg_textdomain
+msgid "SECTION BUTTONS"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:135
+#: includes/metaboxes/config-meta-boxes.php:355
+#@ gxg_textdomain
+msgid "Button 1 Text"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:141
+#: includes/metaboxes/config-meta-boxes.php:361
+#@ gxg_textdomain
+msgid "Button 1 URL"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:148
+#: includes/metaboxes/config-meta-boxes.php:368
+#@ gxg_textdomain
+msgid "Button 1 Color"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:154
+#: includes/metaboxes/config-meta-boxes.php:374
+#@ gxg_textdomain
+msgid "Button 2 Text"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:160
+#: includes/metaboxes/config-meta-boxes.php:380
+#@ gxg_textdomain
+msgid "Button 2 URL"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:167
+#: includes/metaboxes/config-meta-boxes.php:387
+#@ gxg_textdomain
+msgid "Button 2 Color"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:179
+#@ gxg_textdomain
+msgid "ADVANCED"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:184
+#@ gxg_textdomain
+msgid "SECTION BACKGROUND IMAGE"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:194
+#@ gxg_textdomain
+msgid "Offset on Tablets"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:201
+#@ gxg_textdomain
+msgid "Offset on Mobile Phones"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:217
+#@ gxg_textdomain
+msgid "PORTFOLIO ITEM SETTINGS"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:221
+#@ gxg_textdomain
+msgid "Portfolio Thumbnail"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:228
+#@ gxg_textdomain
+msgid "select image size"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:245
+#@ gxg_textdomain
+msgid "subtitle"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:252
+#@ gxg_textdomain
+msgid "Add browser mockup"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:259
+#@ gxg_textdomain
+msgid "YouTube or Vimeo video"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:266
+#@ gxg_textdomain
+msgid "clicking the portofilio image opens"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:279
+#@ gxg_textdomain
+msgid "Link portfolio item to custom URL"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:291
+#@ gxg_textdomain
+msgid "PORTFOLIO SINGLE ITEM PAGE"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:296
+#@ gxg_textdomain
+msgid "date"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:303
+#@ gxg_textdomain
+msgid "client"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:310
+#@ gxg_textdomain
+msgid "skills"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:317
+#@ gxg_textdomain
+msgid "URL (Launch Project)"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:329
+#@ gxg_textdomain
+msgid "Extra field 1"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:336
+#@ gxg_textdomain
+msgid "Extra field 2"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:343
+#@ gxg_textdomain
+msgid "Extra field 3"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:393
+#@ gxg_textdomain
+msgid "Open button links in new tab"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:408
+#@ gxg_textdomain
+msgid "TEAM MEMBER INFO"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:412
+#@ gxg_textdomain
+msgid "Name"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:419
+#@ gxg_textdomain
+msgid "Position"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:426
+#@ gxg_textdomain
+msgid "Email"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:433
+#@ gxg_textdomain
+msgid "About"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:449
+#@ gxg_textdomain
+msgid "PORTFOLIO settings"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:453
+#: includes/posttypes/portfolio.php:8
+#@ gxg_textdomain
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:454
+#@ gxg_textdomain
+msgid "Choose the portfolio categories that you want to display in this section / on this page."
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:469
+#@ gxg_textdomain
+msgid "Portfolio Items Number"
+msgstr ""
+
+#: includes/metaboxes/config-meta-boxes.php:470
+#@ gxg_textdomain
+msgid "Enter the total number of portfolio items you want displayed in this section / on this page (if you want to display ALL items, enter: -1)"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/button.php:36
+#@ rwmb
+msgid "Click me"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/file-advanced.php:23
+#@ rwmb
+msgid "Select Files"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/file-advanced.php:66
+#@ rwmb
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/file.php:19
+#, php-format
+#@ rwmb
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/file.php:20
+#, php-format
+#@ rwmb
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/image-advanced.php:22
+#@ rwmb
+msgid "Select Images"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/oembed.php:54
+#@ rwmb
+msgid "Embed HTML not available."
+msgstr ""
+
+#: includes/metaboxes/inc/fields/oembed.php:77
+#@ rwmb
+msgid "Preview"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:9
+#: includes/posttypes/portfolio.php:18
+#@ gxg_textdomain
+msgid "Portfolio Category"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:10
+#@ gxg_textdomain
+msgid "Search Portfolio Category"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:11
+#@ gxg_textdomain
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:12
+#@ gxg_textdomain
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:13
+#@ gxg_textdomain
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:14
+#@ gxg_textdomain
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:15
+#@ gxg_textdomain
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:16
+#@ gxg_textdomain
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:17
+#@ gxg_textdomain
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:41
+#@ gxg_textdomain
+msgid "Portfolio"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:42
+#@ gxg_textdomain
+msgid "Portfolio Item"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:43
+#@ gxg_textdomain
+msgid "Add Portfolio Item"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:44
+#@ gxg_textdomain
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:45
+#@ gxg_textdomain
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:46
+#@ gxg_textdomain
+msgid "New Portfolio Item"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:47
+#@ gxg_textdomain
+msgid "View Details"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:48
+#@ gxg_textdomain
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:49
+#@ gxg_textdomain
+msgid "No Portfolio Item found with that criteria"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:50
+#@ gxg_textdomain
+msgid "No Portfolio Item was found in the Trash with that criteria"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:51
+#@ gxg_textdomain
+msgid "View Portfolio Item"
+msgstr ""
+
+#: includes/posttypes/team.php:9
+#@ gxg_textdomain
+msgid "Team"
+msgstr ""
+
+#: includes/posttypes/team.php:10
+#@ gxg_textdomain
+msgid "Team Member"
+msgstr ""
+
+#: includes/posttypes/team.php:11
+#@ gxg_textdomain
+msgid "Add Team Member"
+msgstr ""
+
+#: includes/posttypes/team.php:12
+#@ gxg_textdomain
+msgid "Add New Team Member"
+msgstr ""
+
+#: includes/posttypes/team.php:13
+#@ gxg_textdomain
+msgid "Edit Team Member"
+msgstr ""
+
+#: includes/posttypes/team.php:14
+#@ gxg_textdomain
+msgid "New Team Member"
+msgstr ""
+
+#: includes/posttypes/team.php:15
+#: includes/posttypes/team.php:19
+#@ gxg_textdomain
+msgid "View Team Member"
+msgstr ""
+
+#: includes/posttypes/team.php:16
+#@ gxg_textdomain
+msgid "Search Team"
+msgstr ""
+
+#: includes/posttypes/team.php:17
+#@ gxg_textdomain
+msgid "No Team Member was found with that criteria"
+msgstr ""
+
+#: includes/posttypes/team.php:18
+#@ gxg_textdomain
+msgid "No Team Member was found in the Trash with that criteria"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:164
+#: includes/tgm-plugin-activation/tgm-activation.php:89
+#@ gxg_textdomain
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:165
+#: includes/tgm-plugin-activation/tgm-activation.php:90
+#@ gxg_textdomain
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:166
+#: includes/tgm-plugin-activation/tgm-activation.php:91
+#, php-format
+#@ gxg_textdomain
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:167
+#@ gxg_textdomain
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:168
+#: includes/tgm-plugin-activation/tgm-activation.php:93
+#, php-format
+#@ gxg_textdomain
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:169
+#: includes/tgm-plugin-activation/tgm-activation.php:95
+#, php-format
+#@ gxg_textdomain
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:170
+#, php-format
+#@ gxg_textdomain
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:171
+#: includes/tgm-plugin-activation/tgm-activation.php:101
+#, php-format
+#@ gxg_textdomain
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:172
+#: includes/tgm-plugin-activation/tgm-activation.php:103
+#, php-format
+#@ gxg_textdomain
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:173
+#, php-format
+#@ gxg_textdomain
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:174
+#, php-format
+#@ gxg_textdomain
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:175
+#, php-format
+#@ gxg_textdomain
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:176
+#: includes/tgm-plugin-activation/tgm-activation.php:116
+#@ gxg_textdomain
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:177
+#: includes/tgm-plugin-activation/tgm-activation.php:117
+#@ gxg_textdomain
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:178
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:490
+#: includes/tgm-plugin-activation/tgm-activation.php:118
+#@ gxg_textdomain
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:179
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1846
+#: includes/tgm-plugin-activation/tgm-activation.php:119
+#@ gxg_textdomain
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:180
+#, php-format
+#@ gxg_textdomain
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:517
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2058
+#@ gxg_textdomain
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:545
+#, php-format
+#@ gxg_textdomain
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:704
+#@ gxg_textdomain
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1091
+#@ gxg_textdomain
+msgid "External Link"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1096
+#@ gxg_textdomain
+msgid "Private Repository"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1099
+#@ gxg_textdomain
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1103
+#@ gxg_textdomain
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+#@ gxg_textdomain
+msgid "Required"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+#@ gxg_textdomain
+msgid "Recommended"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1109
+#@ gxg_textdomain
+msgid "Not Installed"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1111
+#@ gxg_textdomain
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1281
+#, php-format
+#@ gxg_textdomain
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1297
+#@ gxg_textdomain
+msgid "Plugin"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1298
+#@ gxg_textdomain
+msgid "Source"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1299
+#@ gxg_textdomain
+msgid "Type"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1300
+#@ gxg_textdomain
+msgid "Status"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1318
+#@ gxg_textdomain
+msgid "Install"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1319
+#@ gxg_textdomain
+msgid "Activate"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1544
+#@ gxg_textdomain
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+#@ gxg_textdomain
+msgid "Install package not available."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1830
+#, php-format
+#@ gxg_textdomain
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1831
+#@ gxg_textdomain
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1832
+#@ gxg_textdomain
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1833
+#@ gxg_textdomain
+msgid "Plugin install failed."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1834
+#@ gxg_textdomain
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1845
+#@ gxg_textdomain
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+#@ gxg_textdomain
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#, php-format
+#@ gxg_textdomain
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+#@ gxg_textdomain
+msgid "Show Details"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+#@ gxg_textdomain
+msgid "Hide Details"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+#@ gxg_textdomain
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+#, php-format
+#@ gxg_textdomain
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+#@ gxg_textdomain
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1963
+#, php-format
+#@ gxg_textdomain
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1964
+#, php-format
+#@ gxg_textdomain
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+#, php-format
+#@ gxg_textdomain
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1966
+#@ gxg_textdomain
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1967
+#, php-format
+#@ gxg_textdomain
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-activation.php:92
+#@ gxg_textdomain
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-activation.php:97
+#, php-format
+#@ gxg_textdomain
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. \n"
+"\t\t\t\t\t\t\t\tContact the administrator of this site for help on getting the plugin installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins. \n"
+"\t\t\t\t\t\t\t\tContact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm-plugin-activation/tgm-activation.php:105
+#, php-format
+#@ gxg_textdomain
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin. \n"
+"\t\t\t\t\t\t\t\tContact the administrator of this site for help on getting the plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s plugins. \n"
+"\t\t\t\t\t\t\t\tContact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm-plugin-activation/tgm-activation.php:109
+#, php-format
+#@ gxg_textdomain
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure maximum compatibility \n"
+"\t\t\t\t\t\t\t\twith this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure maximum \n"
+"\t\t\t\t\t\t\t\tcompatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm-plugin-activation/tgm-activation.php:112
+#, php-format
+#@ gxg_textdomain
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. \n"
+"\t\t\t\t\t\t\t\tContact the administrator of this site for help on getting the plugin updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. \n"
+"\t\t\t\t\t\t\t\tContact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm-plugin-activation/tgm-activation.php:120
+#, php-format
+#@ gxg_textdomain
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: loop-masonry.php:89
+#: loop.php:88
+#: page.php:29
+#: single-portfolio.php:191
+#: single-team.php:57
+#: single.php:97
+#: template-contact.php:55
+#: template-fullwidth.php:31
+#@ gxg_textdomain
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: portfolio-section.php:255
+#: template-portfolio.php:280
+#@ gxg_textdomain
+msgid "No portfolio items found."
+msgstr ""
+
+#: search.php:6
+#@ gxg_textdomain
+msgid "Search Results for "
+msgstr ""
+
+#: search.php:27
+#@ gxg_textdomain
+msgid " blog results"
+msgstr ""
+
+#: search.php:132
+#@ gxg_textdomain
+msgid " page results"
+msgstr ""
+
+#: search.php:236
+#@ gxg_textdomain
+msgid " portfolio results"
+msgstr ""
+
+#: search.php:470
+#@ gxg_textdomain
+msgid " team results"
+msgstr ""
+
+#: searchform.php:5
+#: searchform.php:6
+#: searchform.php:7
+#@ gxg_textdomain
+msgid "Search here ..."
+msgstr ""
+
+#: single-portfolio.php:105
+#@ gxg_textdomain
+msgid "launch project"
+msgstr ""
+
+#: single-portfolio.php:114
+#: single.php:23
+#@ gxg_textdomain
+msgid "share:"
+msgstr ""
+
+#: twitter-section.php:77
+#@ kebo_twitter
+msgid "Time posted"
+msgstr ""
+
+#: twitter-section.php:77
+#@ kebo_twitter
+msgid "Posted on "
+msgstr ""
+
+#: twitter-section.php:95
+#@ kebo_twitter
+msgid "Sorry, no Tweets were found."
+msgstr ""
+
+#: twitter-section.php:101
+#@ kebo_twitter
+msgid "Sorry, the Tweet data is not in the expected format."
+msgstr ""
+
